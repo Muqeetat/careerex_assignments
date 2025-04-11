@@ -51,3 +51,13 @@ console.log(`The last food is: ${favorite_foods[0]}`);
 favorite_foods.unshift("Chicken Burger");
 favorite_foods.push("Salad");
 console.log("Updated list of favorite foods: ", favorite_foods);
+
+// Create three arrays: Each array must contain 10 student names as string values.
+// 8.jssOne
+const jssOne =["Tolu", "Femi", "Hassan", "Chuka", "Olamide", "Kolade", "Zainab", "Damilola", "Opemipo", "Toluwa"];
+
+// 9.jssTwo
+const jssTwo = ["Ayomide", "Tomi", "Dayo", "Bola", "Kemi", "Tunde", "Funmi", "Tayo", "Folake", "Emmanuel"];
+
+// 10.jssThree
+const jssThree = ["Ayoola", "Bamide", "Efe", "Hakeem", "Ife", "Jide", "Kehinde", "Lola", "Micheal", "Nifemi"];
