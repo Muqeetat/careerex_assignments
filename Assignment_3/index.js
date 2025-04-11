@@ -46,7 +46,7 @@ console.log(`The first food is: ${favorite_foods[0]}`); // Displays the first it
 
 favorite_foods.reverse(); // Reverses the array
 console.log(`The last food is: ${favorite_foods[0]}`); // After reversing, the original last item is now first
-
+favorite_foods.reverse(); // Reverse the array back
 
 // 7. Add two more food items to the list: one at the beginning and one at the end. Display the new list.
 favorite_foods.unshift("Chicken Burger"); // Adds "Chicken Burger" to the beginning
